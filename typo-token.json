@@ -1,0 +1,106 @@
+{
+  "fontFamilies": {
+    "nanumgothic": {
+      "value": "NanumGothic",
+      "type": "fontFamilies"
+    },
+    "nanum-gothic": {
+      "value": "Nanum Gothic",
+      "type": "fontFamilies"
+    }
+  },
+  "lineHeights": {
+    "0": {
+      "value": "32",
+      "type": "lineHeights"
+    },
+    "1": {
+      "value": "28",
+      "type": "lineHeights"
+    },
+    "2": {
+      "value": "24",
+      "type": "lineHeights"
+    },
+    "3": {
+      "value": "22",
+      "type": "lineHeights"
+    },
+    "4": {
+      "value": "20",
+      "type": "lineHeights"
+    },
+    "5": {
+      "value": "18",
+      "type": "lineHeights"
+    },
+    "6": {
+      "value": "17",
+      "type": "lineHeights"
+    },
+    "7": {
+      "value": "16",
+      "type": "lineHeights"
+    }
+  },
+  "fontWeights": {
+    "nanumgothic-0": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "nanumgothic-1": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "nanum-gothic-2": {
+      "value": "Regular",
+      "type": "fontWeights"
+    }
+  },
+  "fontSize": {
+    "0": {
+      "value": "12",
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": "13",
+      "type": "fontSizes"
+    },
+    "2": {
+      "value": "14",
+      "type": "fontSizes"
+    },
+    "3": {
+      "value": "15",
+      "type": "fontSizes"
+    },
+    "4": {
+      "value": "16",
+      "type": "fontSizes"
+    },
+    "5": {
+      "value": "18",
+      "type": "fontSizes"
+    },
+    "6": {
+      "value": "20",
+      "type": "fontSizes"
+    },
+    "7": {
+      "value": "24",
+      "type": "fontSizes"
+    }
+  },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase"
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  }
+}
